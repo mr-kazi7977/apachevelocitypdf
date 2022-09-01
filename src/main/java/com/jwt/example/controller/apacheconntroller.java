@@ -90,11 +90,11 @@ public class apacheconntroller {
 
 			document = new Document();
 			// document header attributes
-			document.addAuthor("Kinns");
-			document.addAuthor("Kinns123");
+			document.addAuthor("shahrukh");
+			document.addAuthor("mrkazi");
 			document.addCreationDate();
 			document.addProducer();
-			document.addCreator("kinns123.github.io");
+			document.addCreator("shahrukh kazi");
 			document.addTitle("HTML to PDF using itext");
 			document.setPageSize(PageSize.LETTER);
 
